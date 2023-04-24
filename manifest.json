@@ -1,0 +1,11 @@
+{
+    "name": "Random Info Tool",
+    "version": "1.0.0",
+    "description": "Create random data for testing",
+    "manifest_version": 3,
+    "author": "Jack Bates",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Random Info Tool"
+    }
+}
